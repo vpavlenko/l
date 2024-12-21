@@ -27,6 +27,7 @@ interface GlossedText {
 }
 
 function App() {
+  const data: GlossedText = glossedData;
   const [showHyphens, setShowHyphens] = useState(true);
   const [showGloss, setShowGloss] = useState(true);
   const [showMeaning, setShowMeaning] = useState(true);
@@ -79,7 +80,7 @@ function App() {
       </div>
 
       <div className="glossed-text">
-        {glossedData.paragraphs.map((paragraph) => (
+        {data.paragraphs.map((paragraph) => (
           <div key={paragraph.id} className="paragraph">
             <div className="paragraph-number">({paragraph.id})</div>
             {paragraph.sentences.map((sentence) => (
