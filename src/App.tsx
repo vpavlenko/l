@@ -7,6 +7,7 @@ interface GlossedWord {
   latinPlain: string;
   meaning: string;
   gloss: string;
+  stemMeaning: string;
 }
 
 interface GlossedSentence {
@@ -91,10 +92,13 @@ function App() {
                         {showHyphens ? word.latin : word.latinPlain}
                       </div>
                       {showMeaning && (
-                        <div className="meaning-word">{word.meaning}</div>
+                        <div className="stem-meaning">{word.stemMeaning}</div>
                       )}
                       {showGloss && (
                         <div className="gloss-word">{word.gloss}</div>
+                      )}
+                      {showMeaning && (
+                        <div className="meaning-word">{word.meaning}</div>
                       )}
                     </div>
                   ))}

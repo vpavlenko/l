@@ -59,22 +59,33 @@
   min-width: 80px;
 }
 
-.meaning-word {
-  font-family: sans-serif;
-  color: #4b637b;
-  margin-bottom: 0.2em;
-}
-
 .latin-word {
   font-family: serif;
   color: #000;
   margin-bottom: 0.2em;
+  min-height: 1.2em;
+}
+
+.stem-meaning {
+  font-family: sans-serif;
+  color: #4b637b;
+  margin-bottom: 0.2em;
+  min-height: 1.2em;
 }
 
 .gloss-word {
   font-family: sans-serif;
   color: #666;
   font-size: 0.9em;
+  margin-bottom: 0.2em;
+  min-height: 1.2em;
+}
+
+.meaning-word {
+  font-family: sans-serif;
+  color: #4b637b;
+  margin-bottom: 0.2em;
+  min-height: 1.2em;
 }
 
 .latin-sentence {
