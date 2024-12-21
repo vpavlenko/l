@@ -1,35 +1,117 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+import "./App.css";
+import glossedData from "./ch1.json";
 
-function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+interface GlossedWord {
+  latin: string;
+  latinPlain: string;
+  meaning: string;
+  gloss: string;
 }
 
-export default App
+interface GlossedSentence {
+  id: string;
+  latinSource: string;
+  translation: string;
+  words: GlossedWord[];
+}
+
+interface GlossedParagraph {
+  id: number;
+  sentences: GlossedSentence[];
+}
+
+interface GlossedText {
+  paragraphs: GlossedParagraph[];
+}
+
+function App() {
+  const [showHyphens, setShowHyphens] = useState(true);
+  const [showGloss, setShowGloss] = useState(true);
+  const [showMeaning, setShowMeaning] = useState(true);
+  const [showTranslation, setShowTranslation] = useState(true);
+  const [showLatinSentence, setShowLatinSentence] = useState(true);
+
+  return (
+    <div className="container">
+      <div className="controls">
+        <label>
+          <input
+            type="checkbox"
+            checked={showHyphens}
+            onChange={(e) => setShowHyphens(e.target.checked)}
+          />
+          hyphens
+        </label>
+        <label>
+          <input
+            type="checkbox"
+            checked={showMeaning}
+            onChange={(e) => setShowMeaning(e.target.checked)}
+          />
+          word meanings
+        </label>
+        <label>
+          <input
+            type="checkbox"
+            checked={showGloss}
+            onChange={(e) => setShowGloss(e.target.checked)}
+          />
+          grammatical glosses
+        </label>
+        <label>
+          <input
+            type="checkbox"
+            checked={showLatinSentence}
+            onChange={(e) => setShowLatinSentence(e.target.checked)}
+          />
+          complete Latin sentence
+        </label>
+        <label>
+          <input
+            type="checkbox"
+            checked={showTranslation}
+            onChange={(e) => setShowTranslation(e.target.checked)}
+          />
+          translations
+        </label>
+      </div>
+
+      <div className="glossed-text">
+        {glossedData.paragraphs.map((paragraph) => (
+          <div key={paragraph.id} className="paragraph">
+            <div className="paragraph-number">({paragraph.id})</div>
+            {paragraph.sentences.map((sentence) => (
+              <div key={sentence.id} className="sentence">
+                <div className="sentence-number">{sentence.id}</div>
+                <div className="sentence-content">
+                  {sentence.words.map((word, idx) => (
+                    <div key={idx} className="word-column">
+                      <div className="latin-word">
+                        {showHyphens ? word.latin : word.latinPlain}
+                      </div>
+                      {showMeaning && (
+                        <div className="meaning-word">{word.meaning}</div>
+                      )}
+                      {showGloss && (
+                        <div className="gloss-word">{word.gloss}</div>
+                      )}
+                    </div>
+                  ))}
+                </div>
+                {showLatinSentence && (
+                  <div className="latin-sentence">{sentence.latinSource}</div>
+                )}
+                {showTranslation && (
+                  <div className="translation">{sentence.translation}</div>
+                )}
+              </div>
+            ))}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+export default App;

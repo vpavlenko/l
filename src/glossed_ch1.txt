@@ -1,0 +1,21 @@
+**(1)**  
+**Hyphenated (morpheme-by-morpheme segmentation):**  
+```
+Hannibal, Hamilcar-is fīli-us, Karthāginiēns-is.
+Sī vēr-um est, quod nēmō dubit-at,
+ut popul-us Rōmān-us omn-ēs gent-ēs virtūt-e superā-r-it,
+nōn est īnfitiā-nd-um Hannibal-em tant-ō praestit-iss-e
+cēter-ōs imperātor-ēs prūdent-iā,
+quant-ō popul-us Rōmān-us antecēd-at fortitūdin-e cūnct-ās nātiōn-ēs.
+```
+
+**Gloss (following Leipzig Rules):**  
+```
+Hannibal   PN, 
+Hamilcar-GEN.SG   son-NOM.SG,   Carthaginian-NOM.SG.
+if   true-NOM.SG.N   be-3SG.PRS,   REL   no.one-NOM.SG   doubt-3SG.PRS,
+that   people-NOM.SG.M   Roman-NOM.SG.M   all-ACC.PL   nation-ACC.PL   valor-ABL.SG   surpass-PERF-SBJ.3SG,
+not   be-3SG.PRS   deny-GERUNDV-NOM.SG.N   Hannibal-ACC.SG   so.much-ABL.SG   surpass-PRF-INF
+other-ACC.PL.M   general-ACC.PL.M   prudence-ABL.SG,
+by.how.much-ABL.SG.M   people-NOM.SG.M   Roman-NOM.SG.M   surpass-3SG.PRS.SBJ   bravery-ABL.SG   all-ACC.PL.F   nation-ACC.PL.F.
+```

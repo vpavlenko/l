@@ -1,0 +1,620 @@
+{
+    "paragraphs": [
+        {
+            "id": 1,
+            "sentences": [
+                {
+                    "id": "1.1",
+                    "latinSource": "Hannibal, Hamilcaris fīlius, Karthāginiēnsis.",
+                    "translation": "Hannibal, son of Hamilcar, the Carthaginian.",
+                    "words": [
+                        {
+                            "latin": "Hannibal",
+                            "latinPlain": "Hannibal",
+                            "meaning": "Hannibal",
+                            "gloss": "PN"
+                        },
+                        {
+                            "latin": "Hamilcar-is",
+                            "latinPlain": "Hamilcaris",
+                            "meaning": "Hamilcar",
+                            "gloss": "GEN.SG"
+                        },
+                        {
+                            "latin": "fīli-us",
+                            "latinPlain": "fīlius",
+                            "meaning": "son",
+                            "gloss": "NOM.SG"
+                        },
+                        {
+                            "latin": "Karthāginiēns-is",
+                            "latinPlain": "Karthāginiēnsis",
+                            "meaning": "Carthaginian",
+                            "gloss": "NOM.SG"
+                        }
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "latinSource": "Sī vērum est, quod nēmō dubitat, ut populus Rōmānus omnēs gentēs virtūte superārit, nōn est īnfitiandum Hannibalem tantō praestitisse cēterōs imperātōrēs prūdentiā, quantō populus Rōmānus antecēdat fortitūdine cūnctās nātiōnēs.",
+                    "translation": "If it is true, which no one doubts, that the Roman people has surpassed all nations in valor, it must not be denied that Hannibal excelled other generals in prudence by as much as the Roman people surpasses all nations in strength.",
+                    "words": [
+                        {
+                            "latin": "Sī",
+                            "latinPlain": "Sī",
+                            "meaning": "if",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "vēr-um",
+                            "latinPlain": "vērum",
+                            "meaning": "true",
+                            "gloss": "NOM.SG.N"
+                        },
+                        {
+                            "latin": "est",
+                            "latinPlain": "est",
+                            "meaning": "be",
+                            "gloss": "3SG.PRS"
+                        },
+                        {
+                            "latin": "quod",
+                            "latinPlain": "quod",
+                            "meaning": "which",
+                            "gloss": "REL"
+                        },
+                        {
+                            "latin": "nēmō",
+                            "latinPlain": "nēmō",
+                            "meaning": "no one",
+                            "gloss": "NOM.SG"
+                        },
+                        {
+                            "latin": "dubit-at",
+                            "latinPlain": "dubitat",
+                            "meaning": "doubt",
+                            "gloss": "3SG.PRS"
+                        },
+                        {
+                            "latin": "ut",
+                            "latinPlain": "ut",
+                            "meaning": "that",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "popul-us",
+                            "latinPlain": "populus",
+                            "meaning": "people",
+                            "gloss": "NOM.SG.M"
+                        },
+                        {
+                            "latin": "Rōmān-us",
+                            "latinPlain": "Rōmānus",
+                            "meaning": "Roman",
+                            "gloss": "NOM.SG.M"
+                        },
+                        {
+                            "latin": "omn-ēs",
+                            "latinPlain": "omnēs",
+                            "meaning": "all",
+                            "gloss": "ACC.PL"
+                        },
+                        {
+                            "latin": "gent-ēs",
+                            "latinPlain": "gentēs",
+                            "meaning": "nation",
+                            "gloss": "ACC.PL"
+                        },
+                        {
+                            "latin": "virtūt-e",
+                            "latinPlain": "virtūte",
+                            "meaning": "valor",
+                            "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "superā-r-it",
+                            "latinPlain": "superārit",
+                            "meaning": "surpass",
+                            "gloss": "PERF-SBJ.3SG"
+                        },
+                        {
+                            "latin": "nōn",
+                            "latinPlain": "nōn",
+                            "meaning": "not",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "est",
+                            "latinPlain": "est",
+                            "meaning": "be",
+                            "gloss": "3SG.PRS"
+                        },
+                        {
+                            "latin": "īnfitiā-nd-um",
+                            "latinPlain": "īnfitiāndum",
+                            "meaning": "deny",
+                            "gloss": "GERUNDV-NOM.SG.N"
+                        },
+                        {
+                            "latin": "Hannibal-em",
+                            "latinPlain": "Hannibalem",
+                            "meaning": "Hannibal",
+                            "gloss": "ACC.SG"
+                        },
+                        {
+                            "latin": "tant-ō",
+                            "latinPlain": "tantō",
+                            "meaning": "so much",
+                            "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "praestit-iss-e",
+                            "latinPlain": "praestitisse",
+                            "meaning": "surpass",
+                            "gloss": "PRF-INF"
+                        },
+                        {
+                            "latin": "cēter-ōs",
+                            "latinPlain": "cēterōs",
+                            "meaning": "other",
+                            "gloss": "ACC.PL.M"
+                        },
+                        {
+                            "latin": "imperātor-ēs",
+                            "latinPlain": "imperātorēs",
+                            "meaning": "general",
+                            "gloss": "ACC.PL.M"
+                        },
+                        {
+                            "latin": "prūdent-iā",
+                            "latinPlain": "prūdentiā",
+                            "meaning": "prudence",
+                            "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "quant-ō",
+                            "latinPlain": "quantō",
+                            "meaning": "by how much",
+                            "gloss": "ABL.SG.M"
+                        },
+                        {
+                            "latin": "popul-us",
+                            "latinPlain": "populus",
+                            "meaning": "people",
+                            "gloss": "NOM.SG.M"
+                        },
+                        {
+                            "latin": "Rōmān-us",
+                            "latinPlain": "Rōmānus",
+                            "meaning": "Roman",
+                            "gloss": "NOM.SG.M"
+                        },
+                        {
+                            "latin": "antecēd-at",
+                            "latinPlain": "antecēdat",
+                            "meaning": "surpass",
+                            "gloss": "3SG.PRS.SBJ"
+                        },
+                        {
+                            "latin": "fortitūdin-e",
+                            "latinPlain": "fortitūdine",
+                            "meaning": "bravery",
+                            "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "cūnct-ās",
+                            "latinPlain": "cūnctās",
+                            "meaning": "all",
+                            "gloss": "ACC.PL.F"
+                        },
+                        {
+                            "latin": "nātiōn-ēs",
+                            "latinPlain": "nātiōnēs",
+                            "meaning": "nation",
+                            "gloss": "ACC.PL.F"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "sentences": [
+                {
+                    "id": "2.1",
+                    "latinSource": "Nam quotiēnscumque cum eō congressus est in Italiā, semper discessit superior.",
+                    "translation": "For whenever he met with him in Italy, he always came away superior.",
+                    "words": [
+                        {
+                            "latin": "Nam",
+                            "latinPlain": "Nam",
+                            "meaning": "for",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "quotiēnscumque",
+                            "latinPlain": "quotiēnscumque",
+                            "meaning": "whenever",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "cum",
+                            "latinPlain": "cum",
+                            "meaning": "with",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "e-ō",
+                            "latinPlain": "eō",
+                            "meaning": "he",
+                            "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "congress-us",
+                            "latinPlain": "congressus",
+                            "meaning": "meet",
+                            "gloss": "PST.PTCP"
+                        },
+                        {
+                            "latin": "est",
+                            "latinPlain": "est",
+                            "meaning": "be",
+                            "gloss": "3SG.PRF"
+                        },
+                        {
+                            "latin": "in",
+                            "latinPlain": "in",
+                            "meaning": "in",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "Italiā",
+                            "latinPlain": "Italiā",
+                            "meaning": "Italy",
+                            "gloss": "ABL.SG"
+                        }
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "latinSource": "Quod nisi domī cīvium suōrum invidiā dēbilitātus esset, Rōmānōs vidētur superāre potuisse.",
+                    "translation": "If he had not been weakened by the envy of his fellow citizens at home, he seems to have been able to overcome the Romans.",
+                    "words": [
+                        {
+                            "latin": "Quod",
+                            "latinPlain": "Quod",
+                            "meaning": "which",
+                            "gloss": "REL"
+                        },
+                        {
+                            "latin": "nisi",
+                            "latinPlain": "nisi",
+                            "meaning": "if not",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "dom-ī",
+                            "latinPlain": "domī",
+                            "meaning": "home",
+                            "gloss": "LOC"
+                        },
+                        {
+                            "latin": "cīvi-um",
+                            "latinPlain": "cīvium",
+                            "meaning": "citizen",
+                            "gloss": "GEN.PL"
+                        },
+                        {
+                            "latin": "su-ōrum",
+                            "latinPlain": "suōrum",
+                            "meaning": "his own",
+                            "gloss": "GEN.PL"
+                        },
+                        {
+                            "latin": "invidi-ā",
+                            "latinPlain": "invidiā",
+                            "meaning": "envy",
+                            "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "dēbilitāt-us",
+                            "latinPlain": "dēbilitātus",
+                            "meaning": "weaken",
+                            "gloss": "PST.PTCP.NOM.SG.M"
+                        },
+                        {
+                            "latin": "esset",
+                            "latinPlain": "esset",
+                            "meaning": "be",
+                            "gloss": "3SG.IMPF.SBJ"
+                        },
+                        {
+                            "latin": "Rōmān-ōs",
+                            "latinPlain": "Rōmānōs",
+                            "meaning": "Roman",
+                            "gloss": "ACC.PL"
+                        },
+                        {
+                            "latin": "vidē-tur",
+                            "latinPlain": "vidētur",
+                            "meaning": "seem",
+                            "gloss": "3SG.PRS.PASS"
+                        },
+                        {
+                            "latin": "superā-re",
+                            "latinPlain": "superāre",
+                            "meaning": "overcome",
+                            "gloss": "INF"
+                        },
+                        {
+                            "latin": "potu-iss-e",
+                            "latinPlain": "potuisse",
+                            "meaning": "be able",
+                            "gloss": "PRF-INF"
+                        }
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "latinSource": "Sed multōrum obtrectātiō dēvīcit ūnīus virtūtem.",
+                    "translation": "But the detraction of many defeated the valor of one.",
+                    "words": [
+                        {
+                            "latin": "Sed",
+                            "latinPlain": "Sed",
+                            "meaning": "but",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "mult-ōrum",
+                            "latinPlain": "multōrum",
+                            "meaning": "many",
+                            "gloss": "GEN.PL"
+                        },
+                        {
+                            "latin": "obtrectāti-ō",
+                            "latinPlain": "obtrectātiō",
+                            "meaning": "detraction",
+                            "gloss": "NOM.SG"
+                        },
+                        {
+                            "latin": "dēvīc-it",
+                            "latinPlain": "dēvīcit",
+                            "meaning": "defeat",
+                            "gloss": "3SG.PRF"
+                        },
+                        {
+                            "latin": "ūnī-us",
+                            "latinPlain": "ūnīus",
+                            "meaning": "one",
+                            "gloss": "GEN.SG"
+                        },
+                        {
+                            "latin": "virtūt-em",
+                            "latinPlain": "virtūtem",
+                            "meaning": "valor",
+                            "gloss": "ACC.SG"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "sentences": [
+                {
+                    "id": "3.1",
+                    "latinSource": "Hic autem, velut hērēditāte relictum, odium paternum ergā Rōmānōs sīc cōnservāvit, ut prius animam quam id dēposuerit,",
+                    "translation": "He, however, preserved his paternal hatred toward the Romans as if it were left as an inheritance, in such a way that he gave up his life before he gave up that hatred.",
+                    "words": [
+                        {
+                            "latin": "Hic",
+                            "latinPlain": "Hic",
+                            "meaning": "this",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "autem",
+                            "latinPlain": "autem",
+                            "meaning": "however",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "velut",
+                            "latinPlain": "velut",
+                            "meaning": "as if",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "hērēditāt-e",
+                            "latinPlain": "hērēditāte",
+                            "meaning": "inheritance",
+                            "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "relict-um",
+                            "latinPlain": "relictum",
+                            "meaning": "leave",
+                            "gloss": "PST.PTCP.ACC.SG.N"
+                        },
+                        {
+                            "latin": "odi-um",
+                            "latinPlain": "odium",
+                            "meaning": "hate",
+                            "gloss": "ACC.SG"
+                        },
+                        {
+                            "latin": "patern-um",
+                            "latinPlain": "paternum",
+                            "meaning": "fatherly",
+                            "gloss": "ACC.SG"
+                        },
+                        {
+                            "latin": "ergā",
+                            "latinPlain": "ergā",
+                            "meaning": "towards",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "Rōmān-ōs",
+                            "latinPlain": "Rōmānōs",
+                            "meaning": "Roman",
+                            "gloss": "ACC.PL"
+                        },
+                        {
+                            "latin": "sīc",
+                            "latinPlain": "sīc",
+                            "meaning": "thus",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "cōnservā-v-it",
+                            "latinPlain": "cōnservāvit",
+                            "meaning": "preserve",
+                            "gloss": "PERF-3SG"
+                        },
+                        {
+                            "latin": "ut",
+                            "latinPlain": "ut",
+                            "meaning": "that",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "prius",
+                            "latinPlain": "prius",
+                            "meaning": "earlier",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "anim-am",
+                            "latinPlain": "animam",
+                            "meaning": "soul",
+                            "gloss": "ACC.SG"
+                        },
+                        {
+                            "latin": "quam",
+                            "latinPlain": "quam",
+                            "meaning": "than",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "id",
+                            "latinPlain": "id",
+                            "meaning": "it",
+                            "gloss": "ACC.SG"
+                        },
+                        {
+                            "latin": "dēposu-er-it",
+                            "latinPlain": "dēposuerit",
+                            "meaning": "put aside",
+                            "gloss": "PERF-SBJ.3SG"
+                        }
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "latinSource": "quī quidem, cum patriā pulsus esset et aliēnārum opum indigēret, numquam dēstiterit animō bellāre cum Rōmānīs.",
+                    "translation": "Indeed, when he had been driven from his fatherland and was in need of foreign resources, he never ceased to wage war in spirit with the Romans.",
+                    "words": [
+                        {
+                            "latin": "qu-ī",
+                            "latinPlain": "quī",
+                            "meaning": "who",
+                            "gloss": "REL-NOM.SG.M"
+                        },
+                        {
+                            "latin": "quidem",
+                            "latinPlain": "quidem",
+                            "meaning": "indeed",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "cum",
+                            "latinPlain": "cum",
+                            "meaning": "when",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "patri-ā",
+                            "latinPlain": "patriā",
+                            "meaning": "fatherland",
+                            "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "puls-us",
+                            "latinPlain": "pulsus",
+                            "meaning": "drive out",
+                            "gloss": "PST.PTCP.NOM.SG.M"
+                        },
+                        {
+                            "latin": "esset",
+                            "latinPlain": "esset",
+                            "meaning": "be",
+                            "gloss": "3SG.IMPF.SBJ"
+                        },
+                        {
+                            "latin": "et",
+                            "latinPlain": "et",
+                            "meaning": "and",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "aliēnār-um",
+                            "latinPlain": "aliēnārum",
+                            "meaning": "foreign",
+                            "gloss": "GEN.PL"
+                        },
+                        {
+                            "latin": "op-um",
+                            "latinPlain": "opum",
+                            "meaning": "resource",
+                            "gloss": "GEN.PL"
+                        },
+                        {
+                            "latin": "indigē-r-et",
+                            "latinPlain": "indigēret",
+                            "meaning": "need",
+                            "gloss": "3SG.IMPF.SBJ"
+                        },
+                        {
+                            "latin": "numquam",
+                            "latinPlain": "numquam",
+                            "meaning": "never",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "dēstit-er-it",
+                            "latinPlain": "dēstiterit",
+                            "meaning": "cease",
+                            "gloss": "PERF-SBJ.3SG"
+                        },
+                        {
+                            "latin": "anim-ō",
+                            "latinPlain": "animō",
+                            "meaning": "spirit",
+                            "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "bellā-re",
+                            "latinPlain": "bellāre",
+                            "meaning": "wage war",
+                            "gloss": "INF"
+                        },
+                        {
+                            "latin": "cum",
+                            "latinPlain": "cum",
+                            "meaning": "with",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "Rōmān-īs",
+                            "latinPlain": "Rōmānīs",
+                            "meaning": "Roman",
+                            "gloss": "ABL.PL"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
