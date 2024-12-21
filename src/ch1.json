@@ -12,24 +12,28 @@
                             "latin": "Hannibal",
                             "latinPlain": "Hannibal",
                             "meaning": "Hannibal",
+                            "stemMeaning": "Hannibal",
                             "gloss": "PN"
                         },
                         {
                             "latin": "Hamilcar-is",
                             "latinPlain": "Hamilcaris",
                             "meaning": "Hamilcar",
+                            "stemMeaning": "Hamilcar",
                             "gloss": "GEN.SG"
                         },
                         {
                             "latin": "fīli-us",
                             "latinPlain": "fīlius",
                             "meaning": "son",
+                            "stemMeaning": "son",
                             "gloss": "NOM.SG"
                         },
                         {
                             "latin": "Karthāginiēns-is",
                             "latinPlain": "Karthāginiēnsis",
                             "meaning": "Carthaginian",
+                            "stemMeaning": "Carthaginian",
                             "gloss": "NOM.SG"
                         }
                     ]
@@ -43,174 +47,203 @@
                             "latin": "Sī",
                             "latinPlain": "Sī",
                             "meaning": "if",
+                            "stemMeaning": "if",
                             "gloss": ""
                         },
                         {
                             "latin": "vēr-um",
                             "latinPlain": "vērum",
                             "meaning": "true",
+                            "stemMeaning": "true",
                             "gloss": "NOM.SG.N"
                         },
                         {
                             "latin": "est",
                             "latinPlain": "est",
                             "meaning": "be",
+                            "stemMeaning": "be",
                             "gloss": "3SG.PRS"
                         },
                         {
                             "latin": "quod",
                             "latinPlain": "quod",
                             "meaning": "which",
+                            "stemMeaning": "which",
                             "gloss": "REL"
                         },
                         {
                             "latin": "nēmō",
                             "latinPlain": "nēmō",
                             "meaning": "no one",
+                            "stemMeaning": "no one",
                             "gloss": "NOM.SG"
                         },
                         {
                             "latin": "dubit-at",
                             "latinPlain": "dubitat",
                             "meaning": "doubt",
+                            "stemMeaning": "doubt",
                             "gloss": "3SG.PRS"
                         },
                         {
                             "latin": "ut",
                             "latinPlain": "ut",
                             "meaning": "that",
+                            "stemMeaning": "that",
                             "gloss": ""
                         },
                         {
                             "latin": "popul-us",
                             "latinPlain": "populus",
                             "meaning": "people",
+                            "stemMeaning": "people",
                             "gloss": "NOM.SG.M"
                         },
                         {
                             "latin": "Rōmān-us",
                             "latinPlain": "Rōmānus",
                             "meaning": "Roman",
+                            "stemMeaning": "Roman",
                             "gloss": "NOM.SG.M"
                         },
                         {
                             "latin": "omn-ēs",
                             "latinPlain": "omnēs",
                             "meaning": "all",
+                            "stemMeaning": "all",
                             "gloss": "ACC.PL"
                         },
                         {
                             "latin": "gent-ēs",
                             "latinPlain": "gentēs",
-                            "meaning": "nation",
+                            "meaning": "nations",
+                            "stemMeaning": "nation",
                             "gloss": "ACC.PL"
                         },
                         {
                             "latin": "virtūt-e",
                             "latinPlain": "virtūte",
                             "meaning": "valor",
+                            "stemMeaning": "valor",
                             "gloss": "ABL.SG"
                         },
                         {
                             "latin": "superā-r-it",
                             "latinPlain": "superārit",
-                            "meaning": "surpass",
+                            "meaning": "surpass/excel",
+                            "stemMeaning": "surpass",
                             "gloss": "PERF-SBJ.3SG"
                         },
                         {
                             "latin": "nōn",
                             "latinPlain": "nōn",
                             "meaning": "not",
+                            "stemMeaning": "not",
                             "gloss": ""
                         },
                         {
                             "latin": "est",
                             "latinPlain": "est",
                             "meaning": "be",
+                            "stemMeaning": "be",
                             "gloss": "3SG.PRS"
                         },
                         {
                             "latin": "īnfitiā-nd-um",
                             "latinPlain": "īnfitiāndum",
                             "meaning": "deny",
+                            "stemMeaning": "deny",
                             "gloss": "GERUNDV-NOM.SG.N"
                         },
                         {
                             "latin": "Hannibal-em",
                             "latinPlain": "Hannibalem",
                             "meaning": "Hannibal",
+                            "stemMeaning": "Hannibal",
                             "gloss": "ACC.SG"
                         },
                         {
                             "latin": "tant-ō",
                             "latinPlain": "tantō",
                             "meaning": "so much",
+                            "stemMeaning": "so much",
                             "gloss": "ABL.SG"
                         },
                         {
                             "latin": "praestit-iss-e",
                             "latinPlain": "praestitisse",
-                            "meaning": "surpass",
+                            "meaning": "surpass/excel",
+                            "stemMeaning": "surpass",
                             "gloss": "PRF-INF"
                         },
                         {
                             "latin": "cēter-ōs",
                             "latinPlain": "cēterōs",
                             "meaning": "other",
+                            "stemMeaning": "other",
                             "gloss": "ACC.PL.M"
                         },
                         {
                             "latin": "imperātor-ēs",
-                            "latinPlain": "imperātorēs",
-                            "meaning": "general",
+                            "latinPlain": "imperātōrēs",
+                            "meaning": "generals",
+                            "stemMeaning": "general",
                             "gloss": "ACC.PL.M"
                         },
                         {
                             "latin": "prūdent-iā",
                             "latinPlain": "prūdentiā",
                             "meaning": "prudence",
+                            "stemMeaning": "prudence",
                             "gloss": "ABL.SG"
                         },
                         {
                             "latin": "quant-ō",
                             "latinPlain": "quantō",
                             "meaning": "by how much",
+                            "stemMeaning": "by how much",
                             "gloss": "ABL.SG.M"
                         },
                         {
                             "latin": "popul-us",
                             "latinPlain": "populus",
                             "meaning": "people",
+                            "stemMeaning": "people",
                             "gloss": "NOM.SG.M"
                         },
                         {
                             "latin": "Rōmān-us",
                             "latinPlain": "Rōmānus",
                             "meaning": "Roman",
+                            "stemMeaning": "Roman",
                             "gloss": "NOM.SG.M"
                         },
                         {
                             "latin": "antecēd-at",
                             "latinPlain": "antecēdat",
                             "meaning": "surpass",
+                            "stemMeaning": "surpass",
                             "gloss": "3SG.PRS.SBJ"
                         },
                         {
                             "latin": "fortitūdin-e",
                             "latinPlain": "fortitūdine",
                             "meaning": "bravery",
+                            "stemMeaning": "bravery",
                             "gloss": "ABL.SG"
                         },
                         {
                             "latin": "cūnct-ās",
                             "latinPlain": "cūnctās",
                             "meaning": "all",
+                            "stemMeaning": "all",
                             "gloss": "ACC.PL.F"
                         },
                         {
                             "latin": "nātiōn-ēs",
                             "latinPlain": "nātiōnēs",
-                            "meaning": "nation",
+                            "meaning": "nations",
+                            "stemMeaning": "nation",
                             "gloss": "ACC.PL.F"
                         }
                     ]
@@ -229,49 +262,78 @@
                             "latin": "Nam",
                             "latinPlain": "Nam",
                             "meaning": "for",
+                            "stemMeaning": "for",
                             "gloss": ""
                         },
                         {
                             "latin": "quotiēnscumque",
                             "latinPlain": "quotiēnscumque",
                             "meaning": "whenever",
+                            "stemMeaning": "whenever",
                             "gloss": ""
                         },
                         {
                             "latin": "cum",
                             "latinPlain": "cum",
                             "meaning": "with",
+                            "stemMeaning": "with",
                             "gloss": ""
                         },
                         {
                             "latin": "e-ō",
                             "latinPlain": "eō",
-                            "meaning": "he",
+                            "meaning": "him (abl.)",
+                            "stemMeaning": "he",
                             "gloss": "ABL.SG"
                         },
                         {
                             "latin": "congress-us",
                             "latinPlain": "congressus",
-                            "meaning": "meet",
-                            "gloss": "PST.PTCP"
+                            "meaning": "meet (having met)",
+                            "stemMeaning": "meet",
+                            "gloss": "PST.PTCP.NOM.SG.M"
                         },
                         {
                             "latin": "est",
                             "latinPlain": "est",
                             "meaning": "be",
+                            "stemMeaning": "be",
                             "gloss": "3SG.PRF"
                         },
                         {
                             "latin": "in",
                             "latinPlain": "in",
                             "meaning": "in",
+                            "stemMeaning": "in",
                             "gloss": ""
                         },
                         {
                             "latin": "Italiā",
                             "latinPlain": "Italiā",
                             "meaning": "Italy",
+                            "stemMeaning": "Italy",
                             "gloss": "ABL.SG"
+                        },
+                        {
+                            "latin": "semper",
+                            "latinPlain": "semper",
+                            "meaning": "always",
+                            "stemMeaning": "always",
+                            "gloss": ""
+                        },
+                        {
+                            "latin": "discess-it",
+                            "latinPlain": "discessit",
+                            "meaning": "departed / came away",
+                            "stemMeaning": "depart",
+                            "gloss": "3SG.PRF"
+                        },
+                        {
+                            "latin": "superior",
+                            "latinPlain": "superior",
+                            "meaning": "superior",
+                            "stemMeaning": "superior",
+                            "gloss": "NOM.SG.M"
                         }
                     ]
                 },
@@ -284,72 +346,84 @@
                             "latin": "Quod",
                             "latinPlain": "Quod",
                             "meaning": "which",
+                            "stemMeaning": "which",
                             "gloss": "REL"
                         },
                         {
                             "latin": "nisi",
                             "latinPlain": "nisi",
                             "meaning": "if not",
+                            "stemMeaning": "if not",
                             "gloss": ""
                         },
                         {
                             "latin": "dom-ī",
                             "latinPlain": "domī",
                             "meaning": "home",
+                            "stemMeaning": "home",
                             "gloss": "LOC"
                         },
                         {
                             "latin": "cīvi-um",
                             "latinPlain": "cīvium",
-                            "meaning": "citizen",
+                            "meaning": "of citizens",
+                            "stemMeaning": "citizens",
                             "gloss": "GEN.PL"
                         },
                         {
                             "latin": "su-ōrum",
                             "latinPlain": "suōrum",
                             "meaning": "his own",
+                            "stemMeaning": "his own",
                             "gloss": "GEN.PL"
                         },
                         {
                             "latin": "invidi-ā",
                             "latinPlain": "invidiā",
                             "meaning": "envy",
+                            "stemMeaning": "envy",
                             "gloss": "ABL.SG"
                         },
                         {
                             "latin": "dēbilitāt-us",
                             "latinPlain": "dēbilitātus",
-                            "meaning": "weaken",
+                            "meaning": "weakened",
+                            "stemMeaning": "weaken",
                             "gloss": "PST.PTCP.NOM.SG.M"
                         },
                         {
                             "latin": "esset",
                             "latinPlain": "esset",
                             "meaning": "be",
+                            "stemMeaning": "be",
                             "gloss": "3SG.IMPF.SBJ"
                         },
                         {
                             "latin": "Rōmān-ōs",
                             "latinPlain": "Rōmānōs",
-                            "meaning": "Roman",
+                            "meaning": "the Romans",
+                            "stemMeaning": "Romans",
                             "gloss": "ACC.PL"
                         },
                         {
                             "latin": "vidē-tur",
                             "latinPlain": "vidētur",
-                            "meaning": "seem",
+                            "meaning": "he seems",
+                            "stemMeaning": "seems",
                             "gloss": "3SG.PRS.PASS"
                         },
                         {
                             "latin": "superā-re",
                             "latinPlain": "superāre",
-                            "meaning": "overcome",
+                            "meaning": "to overcome",
+                            "stemMeaning": "overcome",
                             "gloss": "INF"
                         },
                         {
                             "latin": "potu-iss-e",
                             "latinPlain": "potuisse",
-                            "meaning": "be able",
+                            "meaning": "to have been able",
+                            "stemMeaning": "be able",
                             "gloss": "PRF-INF"
                         }
                     ]
@@ -363,36 +437,42 @@
                             "latin": "Sed",
                             "latinPlain": "Sed",
                             "meaning": "but",
+                            "stemMeaning": "but",
                             "gloss": ""
                         },
                         {
                             "latin": "mult-ōrum",
                             "latinPlain": "multōrum",
-                            "meaning": "many",
+                            "meaning": "of many",
+                            "stemMeaning": "many",
                             "gloss": "GEN.PL"
                         },
                         {
                             "latin": "obtrectāti-ō",
                             "latinPlain": "obtrectātiō",
                             "meaning": "detraction",
+                            "stemMeaning": "detraction",
                             "gloss": "NOM.SG"
                         },
                         {
                             "latin": "dēvīc-it",
                             "latinPlain": "dēvīcit",
-                            "meaning": "defeat",
+                            "meaning": "defeated",
+                            "stemMeaning": "defeat",
                             "gloss": "3SG.PRF"
                         },
                         {
                             "latin": "ūnī-us",
                             "latinPlain": "ūnīus",
-                            "meaning": "one",
+                            "meaning": "of one",
+                            "stemMeaning": "one",
                             "gloss": "GEN.SG"
                         },
                         {
                             "latin": "virtūt-em",
                             "latinPlain": "virtūtem",
                             "meaning": "valor",
+                            "stemMeaning": "valor",
                             "gloss": "ACC.SG"
                         }
                     ]
@@ -410,103 +490,120 @@
                         {
                             "latin": "Hic",
                             "latinPlain": "Hic",
-                            "meaning": "this",
+                            "meaning": "this man",
+                            "stemMeaning": "this",
                             "gloss": ""
                         },
                         {
                             "latin": "autem",
                             "latinPlain": "autem",
                             "meaning": "however",
+                            "stemMeaning": "however",
                             "gloss": ""
                         },
                         {
                             "latin": "velut",
                             "latinPlain": "velut",
                             "meaning": "as if",
+                            "stemMeaning": "as if",
                             "gloss": ""
                         },
                         {
                             "latin": "hērēditāt-e",
                             "latinPlain": "hērēditāte",
                             "meaning": "inheritance",
+                            "stemMeaning": "inheritance",
                             "gloss": "ABL.SG"
                         },
                         {
                             "latin": "relict-um",
                             "latinPlain": "relictum",
-                            "meaning": "leave",
+                            "meaning": "left",
+                            "stemMeaning": "leave",
                             "gloss": "PST.PTCP.ACC.SG.N"
                         },
                         {
                             "latin": "odi-um",
                             "latinPlain": "odium",
-                            "meaning": "hate",
+                            "meaning": "hatred",
+                            "stemMeaning": "hate",
                             "gloss": "ACC.SG"
                         },
                         {
                             "latin": "patern-um",
                             "latinPlain": "paternum",
-                            "meaning": "fatherly",
+                            "meaning": "paternal",
+                            "stemMeaning": "fatherly",
                             "gloss": "ACC.SG"
                         },
                         {
                             "latin": "ergā",
                             "latinPlain": "ergā",
-                            "meaning": "towards",
+                            "meaning": "toward",
+                            "stemMeaning": "toward",
                             "gloss": ""
                         },
                         {
                             "latin": "Rōmān-ōs",
                             "latinPlain": "Rōmānōs",
-                            "meaning": "Roman",
+                            "meaning": "Romans",
+                            "stemMeaning": "Romans",
                             "gloss": "ACC.PL"
                         },
                         {
                             "latin": "sīc",
                             "latinPlain": "sīc",
                             "meaning": "thus",
+                            "stemMeaning": "thus",
                             "gloss": ""
                         },
                         {
                             "latin": "cōnservā-v-it",
                             "latinPlain": "cōnservāvit",
-                            "meaning": "preserve",
+                            "meaning": "he preserved",
+                            "stemMeaning": "preserve",
                             "gloss": "PERF-3SG"
                         },
                         {
                             "latin": "ut",
                             "latinPlain": "ut",
-                            "meaning": "that",
+                            "meaning": "that (result)",
+                            "stemMeaning": "that",
                             "gloss": ""
                         },
                         {
                             "latin": "prius",
                             "latinPlain": "prius",
-                            "meaning": "earlier",
+                            "meaning": "earlier / sooner",
+                            "stemMeaning": "earlier",
                             "gloss": ""
                         },
                         {
                             "latin": "anim-am",
                             "latinPlain": "animam",
-                            "meaning": "soul",
+                            "meaning": "life / soul",
+                            "stemMeaning": "soul",
                             "gloss": "ACC.SG"
                         },
                         {
                             "latin": "quam",
                             "latinPlain": "quam",
                             "meaning": "than",
+                            "stemMeaning": "than",
                             "gloss": ""
                         },
                         {
                             "latin": "id",
                             "latinPlain": "id",
                             "meaning": "it",
+                            "stemMeaning": "it",
                             "gloss": "ACC.SG"
                         },
                         {
                             "latin": "dēposu-er-it",
                             "latinPlain": "dēposuerit",
-                            "meaning": "put aside",
+                            "meaning": "he put aside",
+                            "stemMeaning": "put aside",
                             "gloss": "PERF-SBJ.3SG"
                         }
                     ]
@@ -514,102 +611,118 @@
                 {
                     "id": "3.2",
                     "latinSource": "quī quidem, cum patriā pulsus esset et aliēnārum opum indigēret, numquam dēstiterit animō bellāre cum Rōmānīs.",
-                    "translation": "Indeed, when he had been driven from his fatherland and was in need of foreign resources, he never ceased to wage war in spirit with the Romans.",
+                    "translation": "Indeed, when he had been driven from his fatherland and was in need of foreign resources, he never ceased in his mind to wage war against the Romans.",
                     "words": [
                         {
                             "latin": "qu-ī",
                             "latinPlain": "quī",
                             "meaning": "who",
+                            "stemMeaning": "who",
                             "gloss": "REL-NOM.SG.M"
                         },
                         {
                             "latin": "quidem",
                             "latinPlain": "quidem",
                             "meaning": "indeed",
+                            "stemMeaning": "indeed",
                             "gloss": ""
                         },
                         {
                             "latin": "cum",
                             "latinPlain": "cum",
                             "meaning": "when",
+                            "stemMeaning": "when",
                             "gloss": ""
                         },
                         {
                             "latin": "patri-ā",
                             "latinPlain": "patriā",
                             "meaning": "fatherland",
+                            "stemMeaning": "fatherland",
                             "gloss": "ABL.SG"
                         },
                         {
                             "latin": "puls-us",
                             "latinPlain": "pulsus",
-                            "meaning": "drive out",
+                            "meaning": "driven out",
+                            "stemMeaning": "drive out",
                             "gloss": "PST.PTCP.NOM.SG.M"
                         },
                         {
                             "latin": "esset",
                             "latinPlain": "esset",
-                            "meaning": "be",
+                            "meaning": "he was",
+                            "stemMeaning": "be",
                             "gloss": "3SG.IMPF.SBJ"
                         },
                         {
                             "latin": "et",
                             "latinPlain": "et",
                             "meaning": "and",
+                            "stemMeaning": "and",
                             "gloss": ""
                         },
                         {
                             "latin": "aliēnār-um",
                             "latinPlain": "aliēnārum",
-                            "meaning": "foreign",
+                            "meaning": "of foreign",
+                            "stemMeaning": "foreign",
                             "gloss": "GEN.PL"
                         },
                         {
                             "latin": "op-um",
                             "latinPlain": "opum",
-                            "meaning": "resource",
+                            "meaning": "resources",
+                            "stemMeaning": "resource",
                             "gloss": "GEN.PL"
                         },
                         {
                             "latin": "indigē-r-et",
                             "latinPlain": "indigēret",
-                            "meaning": "need",
+                            "meaning": "he needed",
+                            "stemMeaning": "need",
                             "gloss": "3SG.IMPF.SBJ"
                         },
                         {
                             "latin": "numquam",
                             "latinPlain": "numquam",
                             "meaning": "never",
+                            "stemMeaning": "never",
                             "gloss": ""
                         },
                         {
                             "latin": "dēstit-er-it",
                             "latinPlain": "dēstiterit",
-                            "meaning": "cease",
+                            "meaning": "he ceased",
+                            "stemMeaning": "cease",
                             "gloss": "PERF-SBJ.3SG"
                         },
                         {
                             "latin": "anim-ō",
                             "latinPlain": "animō",
-                            "meaning": "spirit",
+                            "meaning": "in (his) mind/spirit",
+                            "stemMeaning": "mind/spirit",
                             "gloss": "ABL.SG"
                         },
                         {
                             "latin": "bellā-re",
                             "latinPlain": "bellāre",
-                            "meaning": "wage war",
+                            "meaning": "to wage war",
+                            "stemMeaning": "wage war",
                             "gloss": "INF"
                         },
                         {
                             "latin": "cum",
                             "latinPlain": "cum",
-                            "meaning": "with",
+                            "meaning": "with / against",
+                            "stemMeaning": "with / against",
                             "gloss": ""
                         },
                         {
                             "latin": "Rōmān-īs",
                             "latinPlain": "Rōmānīs",
-                            "meaning": "Roman",
+                            "meaning": "Romans",
+                            "stemMeaning": "Romans",
                             "gloss": "ABL.PL"
                         }
                     ]
